@@ -2,7 +2,7 @@
 **@readwithai** - [X](https://x.com/readwithai) - [blog](https://readwithai.substack.com/) - [machine-aided reading](https://www.reddit.com/r/machineAidedReading/) - [📖](https://readwithai.substack.com/p/what-is-reading-broadly-defined
 )[⚡️](https://readwithai.substack.com/s/technical-miscellany)[🖋️](https://readwithai.substack.com/p/note-taking-with-obsidian-much-of)
 
-Get photos near a location using the [Mapillary](https://www.mapillary.com/) open source streetview image database.
+Get photos near a location using the [Mapillary](https://www.mapillary.com/) open source streetview image database. These are suitable for use as wallpaper.
 
 ## Motivation
 I like to set up my computer so that it reinforces habits. I am planning to visit another country for a while and learn some languages. A nice way to reinforce this and make this real is to regularly set my background to images in this area.
